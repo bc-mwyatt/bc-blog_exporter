@@ -1,5 +1,5 @@
 # bc-blog_exporter
-A Node.js app you can run locally to export BigCommerce coupon codes to a CSV.
+A Node.js app you can run locally to export BigCommerce Blog Posts to a CSV.
 
 # Prerequisites
 You need an API account with the Content scope generated from your BigCommerce control panel.
