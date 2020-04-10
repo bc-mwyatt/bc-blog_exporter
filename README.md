@@ -11,7 +11,9 @@ Create a file with the name `.env` in the root directory of the app. This is use
 
 ## .env values
 CLIENT={Your client ID}
+
 STOREHASH={Your store hash}
+
 TOKEN={Your auth token}
 
 ## Running the app
