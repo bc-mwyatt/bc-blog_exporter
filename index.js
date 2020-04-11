@@ -1,4 +1,4 @@
-const Coupon = require('./lib/Coupon');
+const Blog = require('./lib/BlogPosts');
 
-const coupon = new Coupon();
-coupon.InitExport();
+const blog = new Blog();
+blog.InitExport();
